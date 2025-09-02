@@ -1,6 +1,6 @@
-const builders = ["Kieran", "Jack", "Builder3", "Builder4", "Builder5", "Builder6", "Builder7", "Builder8"];
-const coders = ["Coder1", "John", "Coder3", "Coder4", "Coder5", "Coder6", "Coder7", "Coder8"];
-const innovators = ["Frank", "Innovator2", "Innovator3", "Innovator4", "Innovator5", "Innovator6", "Innovator7", "Innovator8"];
+const builders = ["John", "Builder2", "Builder3", "Builder4", "Builder5", "Builder6", "Builder7", "Builder8"];
+const coders = ["Frank", "Coder2", "Coder3", "Coder4", "Coder5", "Coder6", "Coder7", "Coder8"];
+const innovators = ["Innovator1", "Innovator2", "Innovator3", "Innovator4", "Innovator5", "Innovator6", "Innovator7", "Innovator8"];
 
 function shuffle(array) {
     let currentIndex = array.length, randomIndex;
